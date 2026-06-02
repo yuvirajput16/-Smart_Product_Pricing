@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+torch
+torchvision
+transformers
+timm
+lightgbm
+Pillow
+tqdm
+joblib
+
